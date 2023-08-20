@@ -79,6 +79,32 @@ h1, h2, h3, h4, h5, h6 {
     width: 100%;
 }
 
+#sign-in .links a {
+    text-decoration: none;
+    color: #fff;
+}
+
+#sign-in .links {
+    padding-bottom: 1rem;
+}
+
+#sign-in .or {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding-bottom: 1.5rem;
+}
+
+#sign-in .or .bar {
+    flex-grow: 1;
+    height: 0.5px;
+}
+
+#sign-in .or span {
+    padding: 0 0.8rem;
+}
+
 /*Button*/
 .primary-btn {
     padding: 0.7rem;
