@@ -111,10 +111,21 @@ footer {
     width: 80%;
 }
 
+/*Footer*/
 footer a {
     color: #f96816;
     text-decoration: none;
     padding: 0 10px;
+}
+
+/* Showcase */
+#showcase {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+    background: url(images/bg.jpg) no-repeat center center  / cover;
 }
 
 /*Button*/
