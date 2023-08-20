@@ -105,6 +105,18 @@ h1, h2, h3, h4, h5, h6 {
     padding: 0 0.8rem;
 }
 
+footer {
+    color: #fff;
+    text-align: center;
+    width: 80%;
+}
+
+footer a {
+    color: #f96816;
+    text-decoration: none;
+    padding: 0 10px;
+}
+
 /*Button*/
 .primary-btn {
     padding: 0.7rem;
